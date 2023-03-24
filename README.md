@@ -7,4 +7,4 @@ Software Requirement
 - Music search
 - Music sharing
 - Music playlist
-- Music equalizer
+- 
