@@ -5,4 +5,8 @@
     <string name="enter_mobile_number">Enter Mobile Number</string>
     <string name="_91">+91-</string>
     <string name="get_otp">GET OTP</string>
+    <string name="enter_the_otp_se_to">Enter the OTP se to</string>
+    <string name="didn_t_receive_the_otp">Didn\'t receive the OTP ?</string>
+    <string name="resend_otp">RESEND OTP</string>
+    <string name="verify">Verify</string>
 </resources>
