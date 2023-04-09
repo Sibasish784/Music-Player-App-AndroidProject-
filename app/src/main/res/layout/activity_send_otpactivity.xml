@@ -75,7 +75,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="40dp"
                 android:background="@null"
-                android:hint="1234567890"
+                android:hint="6370000007"
                 android:imeOptions="actionDone"
                 android:importantForAutofill="no"
                 android:inputType="number"
