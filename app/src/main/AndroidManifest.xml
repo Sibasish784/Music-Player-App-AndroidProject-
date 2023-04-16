@@ -12,16 +12,6 @@
         android:theme="@style/Theme.MusicPlayer"
         tools:targetApi="31">
 
-        <activity
-            android:name=".VerifyOTPActivity"
-            android:screenOrientation="portrait"
-            android:windowSoftInputMode="adjustResize" />
-
-        <activity
-            android:name=".SendOTPActivity"
-            android:screenOrientation="portrait"
-            android:windowSoftInputMode="adjustResize" />
-
         <intent-filter>
             <action android:name="android.intent.action.MAIN" />
 
