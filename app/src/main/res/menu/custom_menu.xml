@@ -6,6 +6,6 @@
         android:id="@+id/nav_upload"
         android:title="upload"
         app:showAsAction="always"
-        android:icon="@drawable/baseline_upload_file_24"
+        android:icon="@drawable/ic_file_upload_black_24dp"
         />
 </menu>
